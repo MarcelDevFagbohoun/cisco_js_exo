@@ -1,0 +1,21 @@
+
+{
+  "student1" : {
+        "name":"Juliane Stace",
+        "studentClass": "1st Year university",
+        "course":"Agriculture",
+        "age":24
+    },
+   "student2" : {
+        "name":"Jubril Soft",
+        "studentClass":"Gradruate 2nd",
+        "course":"Computer Science",
+        "age":27
+    },
+  "student3" :  {
+        "name":"Ezekiel Joshua",
+        "studentClass":"Junior secondary 2",
+        "course":"French Studies",
+        "age":15
+    }
+}
